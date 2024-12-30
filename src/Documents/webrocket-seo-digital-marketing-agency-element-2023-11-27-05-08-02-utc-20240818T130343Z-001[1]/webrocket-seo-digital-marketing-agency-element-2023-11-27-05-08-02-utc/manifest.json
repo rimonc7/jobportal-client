@@ -1,0 +1,1613 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Webrocket - SEO & Digital Marketing Agency Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/webrocket.1onestrong.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/webrocket.1onestrong.com\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/webrocket.1onestrong.com\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact \u2013 Section \u2013 Metform",
+            "screenshot": "screenshots\/contact-section-metform.jpg",
+            "source": "templates\/contact-section-metform.json",
+            "preview_url": "https:\/\/webrocket.1onestrong.com\/template-kit\/contact-section-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/webrocket.1onestrong.com\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/webrocket.1onestrong.com\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services Detail",
+            "screenshot": "screenshots\/services-detail.jpg",
+            "source": "templates\/services-detail.json",
+            "preview_url": "https:\/\/webrocket.1onestrong.com\/template-kit\/services-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/webrocket.1onestrong.com\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/webrocket.1onestrong.com\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/webrocket.1onestrong.com\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Review",
+            "screenshot": "screenshots\/review.jpg",
+            "source": "templates\/review.json",
+            "preview_url": "https:\/\/webrocket.1onestrong.com\/template-kit\/review\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/webrocket.1onestrong.com\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/webrocket.1onestrong.com\/template-kit\/404\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/webrocket.1onestrong.com\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/webrocket.1onestrong.com\/template-kit\/single-post\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/webrocket.1onestrong.com\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.16.5",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.0.0",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.6.2",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.6.0",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logo-02.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/09\/logo-02-800x163.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 25792,
+            "dimensions": [
+                2262,
+                460
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        },
+        {
+            "filename": "BG-013.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/BG-013-800x333.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 4708,
+            "dimensions": [
+                1920,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "BG-014.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/BG-014-800x444.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 5277,
+            "dimensions": [
+                1440,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "BG-015.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/BG-015.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 15395,
+            "dimensions": [
+                430,
+                932
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-03.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/logo-03-800x163.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 25550,
+            "dimensions": [
+                2262,
+                460
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        },
+        {
+            "filename": "BG-01.jpg",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/BG-01-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 172743,
+            "dimensions": [
+                1366,
+                768
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Heros-03.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/Heros-03-800x695.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 131113,
+            "dimensions": [
+                1121,
+                974
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        },
+        {
+            "filename": "Asset-01.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/Asset-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                }
+            ],
+            "filesize": 34298,
+            "dimensions": [
+                603,
+                626
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        },
+        {
+            "filename": "Asset-02.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/Asset-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 165080,
+            "dimensions": [
+                603,
+                627
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        },
+        {
+            "filename": "Asset-04.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/Asset-04.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 44281,
+            "dimensions": [
+                603,
+                626
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        },
+        {
+            "filename": "Asset-09.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/Asset-09-800x801.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 170272,
+            "dimensions": [
+                1700,
+                1703
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        },
+        {
+            "filename": "Asset-011.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/Asset-011-800x654.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 217126,
+            "dimensions": [
+                1194,
+                976
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        },
+        {
+            "filename": "logo-preview-10.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/09\/logo-preview-10-800x337.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 9864,
+            "dimensions": [
+                992,
+                418
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-preview-2.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/09\/logo-preview-2-800x337.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 11375,
+            "dimensions": [
+                992,
+                418
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-preview-3.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/09\/logo-preview-3-800x337.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 11701,
+            "dimensions": [
+                992,
+                418
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-preview-4.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/09\/logo-preview-4-800x337.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 10854,
+            "dimensions": [
+                992,
+                418
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-preview-6.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/09\/logo-preview-6-800x337.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 10850,
+            "dimensions": [
+                992,
+                418
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-preview-7.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/09\/logo-preview-7-800x337.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 8881,
+            "dimensions": [
+                992,
+                418
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-preview-8.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/09\/logo-preview-8-800x337.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 8856,
+            "dimensions": [
+                992,
+                418
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-preview-1.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/09\/logo-preview-1-800x337.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 14022,
+            "dimensions": [
+                992,
+                418
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-preview-5.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/09\/logo-preview-5-800x337.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 10301,
+            "dimensions": [
+                992,
+                418
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Asset-034-1.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/Asset-034-1-800x648.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 120582,
+            "dimensions": [
+                1305,
+                1057
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Asset-06.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/Asset-06.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 226772,
+            "dimensions": [
+                780,
+                928
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        },
+        {
+            "filename": "BG-09.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/BG-09.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 2447,
+            "dimensions": [
+                735,
+                573
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Team-04.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/Team-04.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 163420,
+            "dimensions": [
+                734,
+                971
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        },
+        {
+            "filename": "Asset-013.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/Asset-013-800x735.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 36491,
+            "dimensions": [
+                1030,
+                946
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Testimonials-01.jpg",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/Testimonials-01-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 47152,
+            "dimensions": [
+                915,
+                915
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        },
+        {
+            "filename": "Testimonials-02.jpg",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/Testimonials-02-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 56699,
+            "dimensions": [
+                915,
+                915
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        },
+        {
+            "filename": "Testimonials-03.jpg",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/Testimonials-03-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 57197,
+            "dimensions": [
+                915,
+                915
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        },
+        {
+            "filename": "BG-07.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/BG-07-800x268.png",
+            "templates": [
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 2411,
+            "dimensions": [
+                1004,
+                336
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "BG-06.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/BG-06-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 4864,
+            "dimensions": [
+                1008,
+                672
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Asset-036-1.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/Asset-036-1-800x636.png",
+            "templates": [
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                }
+            ],
+            "filesize": 75802,
+            "dimensions": [
+                1146,
+                911
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        },
+        {
+            "filename": "webrocketjpg-02.jpg",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/webrocketjpg-02-800x391.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 106385,
+            "dimensions": [
+                1500,
+                733
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        },
+        {
+            "filename": "Asset-031.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/Asset-031.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 6423,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "webrocketjpg-03.jpg",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/webrocketjpg-03-800x934.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 125942,
+            "dimensions": [
+                1250,
+                1460
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        },
+        {
+            "filename": "Team-02.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/Team-02.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 191709,
+            "dimensions": [
+                734,
+                971
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        },
+        {
+            "filename": "Team-03.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/Team-03.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 168778,
+            "dimensions": [
+                734,
+                971
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        },
+        {
+            "filename": "Team-05.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/Team-05.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 232285,
+            "dimensions": [
+                734,
+                971
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        },
+        {
+            "filename": "Team-06.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/Team-06.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 122229,
+            "dimensions": [
+                734,
+                971
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        },
+        {
+            "filename": "Team-07.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/Team-07.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 186663,
+            "dimensions": [
+                734,
+                971
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        },
+        {
+            "filename": "Testimonials-04.jpg",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/Testimonials-04-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 37999,
+            "dimensions": [
+                915,
+                915
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        },
+        {
+            "filename": "Testimonials-05.jpg",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/Testimonials-05-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 38710,
+            "dimensions": [
+                915,
+                915
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        },
+        {
+            "filename": "Testimonials-06.jpg",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/Testimonials-06-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 42167,
+            "dimensions": [
+                915,
+                915
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        },
+        {
+            "filename": "BG-010.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/BG-010.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 4922,
+            "dimensions": [
+                752,
+                1128
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "404-page.png",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/404-page-800x331.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 50313,
+            "dimensions": [
+                1344,
+                556
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Blog-6.jpg",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/Blog-6-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 111201,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        },
+        {
+            "filename": "Blog-5.jpg",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/Blog-5-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 125940,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        },
+        {
+            "filename": "Blog-4.jpg",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/Blog-4-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 112620,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        },
+        {
+            "filename": "Blog-1.jpg",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/Blog-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 90576,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        },
+        {
+            "filename": "Blog-2.jpg",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/Blog-2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 124381,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        },
+        {
+            "filename": "Blog-3.jpg",
+            "thumbnail_url": "https:\/\/webrocket.1onestrong.com\/wp-content\/uploads\/2023\/10\/Blog-3-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 169080,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3NCSQYU54Z"
+        }
+    ]
+}
